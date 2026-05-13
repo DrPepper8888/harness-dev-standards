@@ -1,6 +1,6 @@
 # Harness Dev Standards — 你的 AI 代码交付质检官
 
-> pejic 出品 | 每个 AI 开发者必备的质量标准工具
+> ai-acheng 出品 | 每个 AI 开发者必备的质量标准工具
 
 ---
 
@@ -127,8 +127,8 @@ AI 让写代码变得越来越容易。
 
 > 关注「赛博鸭子」，获取更多 AI 开发实战工具。
 > 
-> **GitHub:** github.com/DrPepper8888/harness-dev-standards
-> **ClawHub:** clawhub.com/pejic/harness-dev-standards
+> **GitHub:** github.com/AI-aCheng/harness-dev-standards
+> **ClawHub:** clawhub.ai/ai-acheng/harness-dev-standards
 
 ---
 
